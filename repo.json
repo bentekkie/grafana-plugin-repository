@@ -54,6 +54,11 @@
           "version": "0.0.1",
           "commit": "7d4e94f8b756c7c9b00613e3612d33f79c09df6a",
           "url": "https://github.com/grafana/worldmap-panel"
+        },
+        {
+          "version": "1.0.0",
+          "commit": "00f6666ae165c9d9b9dcab8c29970bd16fcb151c",
+          "url": "https://github.com/bentekkie/grafana-panel-plugin-horizon"
         }
       ]
     },
