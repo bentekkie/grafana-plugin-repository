@@ -362,7 +362,7 @@
       ]
     },
     {
-      "id": "bentekkie-grafana-panel-plugin-horizon",
+      "id": "bentekkie-grafana-panel-horizon",
       "type": "panel",
       "url": "https://github.com/bentekkie/grafana-panel-plugin-horizon",
       "versions": [
